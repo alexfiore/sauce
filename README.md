@@ -1,6 +1,6 @@
 Sauce Coding Challenge
 ---
-Provide three functions that all take an unsorted array of boolean values and sorts them with all the false values placed before the true values.
+Provide three functions, which all take an unsorted array of boolean values. The functions sort the arrays with all the false values placed before the true values.
 
 Ex. 
 
