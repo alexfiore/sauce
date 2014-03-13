@@ -5,8 +5,11 @@ Provide three functions, which all take an unsorted array of boolean values. The
 Ex. 
 
 input = [true, false, true, false]
+
 output = [false, false, true, true]
 
 Which runs the fastest? 
+
 Which uses the least number of arrays?
+
 Which is the easiest to understand? 
